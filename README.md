@@ -2,4 +2,4 @@
 
 仅作备份与存放build文件
 
-欲讨论请移步原项目地址 **https://github.com/miyouzi/tianruoocr_last**
+欲讨论请移步原项目地址 **https://github.com/tianruoyouxin/tianruoocr_last**
